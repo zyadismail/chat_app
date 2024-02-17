@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "369317233646",
+    "project_id": "chatapp-zyad",
+    "storage_bucket": "chatapp-zyad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369317233646:android:2f023735eadeba409744ff",
+        "android_client_info": {
+          "package_name": "com.example.chat_app_udemy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3HlA7GmOqjdFI5XOdq-kbFGnNPZk24s0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
